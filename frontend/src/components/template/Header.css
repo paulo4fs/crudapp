@@ -4,10 +4,9 @@ header.header {
   overflow: hidden;
   white-space: nowrap;
   box-shadow: var(--shadow);
+  font-family: 'Montserrat', sans-serif;
 }
 
-header.header h1{
-    font-size: 1.8em;
+header.header i {
+  font-size: 1em;
 }
-
-

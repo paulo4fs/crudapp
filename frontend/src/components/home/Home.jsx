@@ -6,7 +6,7 @@ export default props => (
     <div className="display-4">Welcome!</div>
     <hr />
     <p className="mb-0">
-      System to exemplify the construction of a user register in React.
+      This app was created to exemplify the construction of a user register with React.
     </p>
   </Main>
 );
